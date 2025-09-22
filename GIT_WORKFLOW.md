@@ -6,7 +6,7 @@
 ## Commit Messages
 These will contain everything that you changed and will explain how you changed it and why.
 
-## Code review progress 
+## Code review process 
 - Push to github
 - Open pull request for main
 - Describe why it needs to be changed
